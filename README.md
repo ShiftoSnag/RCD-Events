@@ -48,6 +48,7 @@ help user have a better management of what is going on or for anyone
 
 <!-- ROAD MAP -->
 ### Road map
+<img width="494" alt="image" src="https://github.com/ShiftoSnag/ZeroCash/assets/130313606/baa92456-2032-4660-831e-788964fca415">
 
 
 
