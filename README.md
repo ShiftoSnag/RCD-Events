@@ -26,6 +26,7 @@ JS, React, CSS, GQL, MongoDB, and more
 <!-- GETTING STARTED -->
 ## Getting Started
 Follow the Link at the bottom
+https://rcd-eventworks-f3be2d570ac1.herokuapp.com/
 
 To get a local copy up and running follow these simple steps.
 
