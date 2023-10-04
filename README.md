@@ -26,6 +26,7 @@ JS, React, CSS, GQL, MongoDB, and more
 <!-- GETTING STARTED -->
 ## Getting Started
 Follow the Link at the bottom
+https://rcd-eventworks-f3be2d570ac1.herokuapp.com/
 
 To get a local copy up and running follow these simple steps.
 
@@ -47,6 +48,7 @@ help user have a better management of what is going on or for anyone
 
 <!-- ROAD MAP -->
 ### Road map
+<img width="494" alt="image" src="https://github.com/ShiftoSnag/ZeroCash/assets/130313606/baa92456-2032-4660-831e-788964fca415">
 
 
 
@@ -61,18 +63,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-<!-- CONTACT -->
-## Contact
 
-Feel free to reach out to me with questions comments, or concerns at one of the ways below.
-
-Git Hub: 
-
-Email: 
-
-LinkedIn Link: 
-
-Project Link: 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
