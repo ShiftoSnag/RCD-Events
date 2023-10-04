@@ -63,18 +63,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-<!-- CONTACT -->
-## Contact
 
-Feel free to reach out to me with questions comments, or concerns at one of the ways below.
-
-Git Hub: 
-
-Email: 
-
-LinkedIn Link: 
-
-Project Link: 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
