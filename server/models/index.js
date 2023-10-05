@@ -1,11 +1,5 @@
-const router = require("express").Router();
+const Comment = require ("./Comment")
+const Event = require ("./Event")
+const User = require ("./User")
 
-const userRoutes = require('./userRoutes');
-const eventRoutes = require("./eventRoutes");
-const commentRoutes = require("./commentRoutes");
-
-router.use("/users", userRoutes);
-router.use("/events", eventRoutes);
-router.use("/comments", commentRoutes);
-
-module.exports = router;
+module.exports = {Comment, Event, User};
